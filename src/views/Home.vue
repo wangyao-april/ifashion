@@ -113,7 +113,7 @@ export default {
       //如果商品是再次加入购物车,商品数量加1
       else
       {
-        findGood.count++; 
+        findGood.count++;
       }
 
 
